@@ -8,7 +8,9 @@ body {
   width: 960px;
   margin: 20px auto;
 }
-/*Test*/
+h3 {
+	color: #888888;
+}
 #adele {
 	background-color:#CCCCCC;
 	font-family: 'helvetica', arial, sans-serif;
@@ -21,4 +23,8 @@ body {
 }
 .link {
 	color:#339999;
+}
+#profile {
+	border: 5px solid black;
+	width: 20%;
 }

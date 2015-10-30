@@ -2,8 +2,23 @@ body {
   font-family: 'helvetica neue', arial, sans-serif;
   font-weight: 300;
   background: url(linedpaper.png) repeat;
+  background-attachment: fixed;
 }
 #wrapper {
   width: 960px;
   margin: 20px auto;
+}
+/*Test*/
+#adele {
+	background-color:#CCCCCC;
+	font-family: 'helvetica', arial, sans-serif;
+	color: #0000FF;
+}
+#spencer {
+	letter-spacing: 3px;
+	color:#339999;
+	text-align: left;
+}
+.link {
+	color:#339999;
 }

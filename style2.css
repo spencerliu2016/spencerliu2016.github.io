@@ -33,6 +33,8 @@ h3 {
 }
 .jumbotron {
 	margin-bottom: 0px;
+	background: url(photos/009.jpg) repeat;
+	background-size: 100%;
 }
 .albumimg {
 	width: 100%;

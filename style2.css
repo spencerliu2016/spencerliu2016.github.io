@@ -8,6 +8,12 @@ body {
 h3 {
 	color: #888888;
 }
+h5 {
+	font-weight: 600;
+}
+#frontpage {
+	background: black;
+}
 #sl {
 	width: 150px;
 	border: 1px solid black;
@@ -20,7 +26,6 @@ h3 {
 	margin-left: 15px;
 }
 .navbar-brand {
-	background: url(photos/009.jpg) repeat;
 	font-weight: bold;
 	color: #FFFFFF;
 }
